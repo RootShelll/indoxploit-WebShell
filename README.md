@@ -1,5 +1,11 @@
 # IndoXploit Modified WebShell: A Comprehensive Guide
 
+![IndoXploit Image](https://r00t-shell.com/wp-content/uploads/2025/03/indoxploit-WebShell.png)
+
+> **Note**: This guide is intended for educational purposes and should only be used responsibly by individuals with permission to access the system.
+
+---
+
 **IndoXploit Modified WebShell** is a powerful tool designed for advanced web management and penetration testing. This guide will walk you through its features, commands, and practical usage. 🚀
 
 ---
