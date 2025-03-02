@@ -117,46 +117,8 @@ This tool should **ONLY** be used in environments where you have **explicit perm
 
 ---
 
-![IndoXploit Image](https://example.com/indoxploit-image.jpg)
-
-> **Note**: This guide is intended for educational purposes and should only be used responsibly by individuals with permission to access the system.
-
----
 
 ### 💬 Feedback and Contributions
 
 Feel free to fork, contribute, or open issues in the repository! 🔄  
-For further queries, you can reach out via [email@example.com](mailto:email@example.com).
-
----
-
-<!-- Styling -->
-<style>
-  h1, h2, h3 {
-    color: #0056b3;
-  }
-  pre {
-    padding: 10px;
-    border-left: 3px solid #ccc;
-    overflow-x: auto;
-  }
-  ul {
-    margin: 10px 0;
-    padding: 0 20px;
-  }
-  li {
-    margin-bottom: 10px;
-  }
-  p {
-    margin: 10px 0;
-  }
-</style>
-```
-
-### Key Changes:
-- Used **emojis** for visual clarity.
-- Added a **warning section** to highlight responsible usage.
-- Included **example image** placeholders.
-- Kept **markdown format** for GitHub compatibility.
-
-Let me know if you'd like to add more details or if there's anything else you'd like to modify!
+For further queries, you can reach out via [help@r00t-shell.com](mailto:help@r00t-shell.com).
